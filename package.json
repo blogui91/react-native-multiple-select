@@ -1,6 +1,6 @@
 {
-  "name": "rn-multiple-select",
-  "version": "0.5.6",
+  "name": "rn-triada-select",
+  "version": "0.0.1",
   "description": "Simple multi-select component for react-native",
   "main": "index.js",
   "scripts": {
